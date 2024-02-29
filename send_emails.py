@@ -40,8 +40,22 @@ def send_email(sender_email, sender_password, recipient_email, subject, body):
 df = pd.read_csv(f"day{day_num}.csv")
 
 # Description of the Email
-with open(f"description{day_num}.txt", "r") as file:
-    desc = file.read()
+
+desc = """Hey Everyone!
+
+Time for another good round! Happy hunting!
+
+From,
+
+Agniv Sarkar
+
+"""
+
+try:
+    with open(f"description{day_num}.txt", "r") as file:
+        desc = file.read()
+except:
+    pass
 
 # Iterate over each row in the DataFrame and send email
 for index, row in df.iterrows():
