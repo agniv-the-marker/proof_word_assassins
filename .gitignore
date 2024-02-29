@@ -4,3 +4,5 @@ day*
 description1.txt
 description2.txt
 names_emails.csv
+config.py
+__pycache__
