@@ -37,10 +37,12 @@ def send_email(sender_email, sender_password, recipient_email, subject, body):
     session.sendmail(sender_email, recipient_email, text)
     session.quit()
 
-df = pd.read_csv(f"day{day_num}.csv")
+num = day_num % 5
+df = pd.read_csv(f"day{num}.csv")
 
 # Description of the Email
 
+# if no email written for that day / i was lazy
 desc = """Hey Everyone!
 
 Time for another good round! Happy hunting!
