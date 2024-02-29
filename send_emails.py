@@ -4,10 +4,12 @@ Follow the instructions from this link to enable/obtain your Google Account App 
 https://stackoverflow.com/questions/72480454/sending-email-with-python-google-disables-less-secure-apps
 """
 
+from os import environ
+
 # ----- BEGIN EDITING -----
-day_num = 2 # Starts at 0
-sender_email = 'maxg414244@gmail.com'
-sender_password = 'icpw xqbe ofwc uwne'  # Input the App password here (NOT your Gmail password!)
+day_num = 0 # Starts at 0
+sender_email = 'agnivsarkar@proofschool.org'
+sender_password = environ['APP_PASSWORD']
 email_subject = f'Word Assassins Day {day_num}'
 # ----- END EDITING -----
 
