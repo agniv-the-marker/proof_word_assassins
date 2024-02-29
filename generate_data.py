@@ -6,10 +6,12 @@ Assuming the number of days the Word Assassins game runs is fixed in advance, th
 Warning: This code might run into an issue if there are too many people, days, or targets per person, since we are sourcing from 5000 words and use unique words each day.
 """
 
+from config import NUM_DAYS
+
 # ----- BEGIN EDITING -----
 num_targets_per_person = 3
-english_enums = ["first", "second", "third"] # someone's gonna have to manually extend this so the length is equal to num_targets_per_person lol
-num_days = 5
+english_enums = ["first", "second", "third", "fourth", "fifth"][:num_targets_per_person] # someone's gonna have to manually extend this so the length is equal to num_targets_per_person lol
+num_days = NUM_DAYS
 # ----- END EDITING -----
 
 import pandas as pd
@@ -23,6 +25,7 @@ with open("5000_words.txt", "r") as file:
 words5000 = [word[:-1] for word in lines5000]
 
 # only choose words that are at least 5 letters
+# kamikaze are allowed other words, check kamikaze.py
 long_words = [word for word in words5000 if len(word) > 4]
 
 # check if randomized list of words has been created

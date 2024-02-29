@@ -1,0 +1,7 @@
+Rules for KAMIKAZE style:
+
+Remove the name from the `names_emails.csv`. Keeping this manual because I don't think most people want to play this style, although you can also use a `kamikaze_names_emails.csv`.
+
+Then, increase agent number by one in `kamikaze.py` to generate enough data for them. 
+
+Then, send them the CSV directly so they have a full list. 
