@@ -54,7 +54,7 @@ Agniv Sarkar
 """
 
 try:
-    with open(f"description{day_num}.txt", "r") as file:
+    with open(f"description{day_num-1}.txt", "r") as file:
         desc = file.read()
 except:
     pass
