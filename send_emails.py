@@ -8,7 +8,7 @@ from os import environ
 from config import APP_PASSWORD
 
 # ----- BEGIN EDITING -----
-day_num = 0 # Starts at 0
+day_num = 2 # Starts at 0
 sender_email = 'agnivsarkar@proofschool.org'
 sender_password = APP_PASSWORD
 email_subject = f'Word Assassins Day {day_num}'
