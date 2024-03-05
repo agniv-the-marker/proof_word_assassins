@@ -6,16 +6,21 @@ For those new, the rules are simple:
 
 - If you get your target to say a word aloud, you get 1 point.
 - If you say a word someone is trying to get you to say, you lose 1/3rd of a point.
+- Let me know if you got someone inside of the group chat! Say "I got [X] with word [Y]"
 
-I'm currently considering adding a rule where if you get 3/3 in a single day you get an extra half point. Text thoughts on this!
+I'm currently considering adding a rule where if you get 3/3 in a single day you get an extra half point (likely), and if you get a new person to join you get an extra half point as well (unlikely). Text me thoughts on this!
 
 Current leaderboard:
 
-1. 
-2. 
-3. 
+1. Allison (8.67, hasn't missed a SINGLE kill?! What the-)
+2. Trent (5.83)
+3. Agniv (5.3)
 
-Again, once the first person gets to 12 points, I will introduce SHIELDING. At 21, I will introduce VENEGENCE.
+Live leaderboard:
+
+https://docs.google.com/spreadsheets/d/12Bp_Tb3LCw74J7p7bIwm3XU9C_AUvO-4zKkxxLV-li8/edit#gid=2054642433
+
+Again, once the first person gets to 12 points, I will introduce SHIELDING. Essentially, if you figure out the word someone is saying, you can get points for it! Getting people used to the game before this rule is introduced though.
 
 Thanks,
 
