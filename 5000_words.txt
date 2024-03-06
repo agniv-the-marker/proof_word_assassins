@@ -272,7 +272,6 @@ simple
 lead
 weather
 direct
-which
 opinion
 justice
 guard

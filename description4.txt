@@ -8,13 +8,15 @@ For those new, the rules are simple:
 - If you say a word someone is trying to get you to say, you lose 1/3rd of a point.
 - Let me know if you got someone inside of the group chat! Say "I got [X] with word [Y]"
 
-Links are in group chat description. Text in the group chat for words that you want added! For example, I'm adding the word "Taylor Swift" so it is easier to kill Allison.
+Links are in group chat description. Text in the group chat for words that you want added, which will go a serious review process on if they are valid (from the vibes)! For example, I'm adding the word "Taylor Swift" so it is easier to kill Allison.
 
 Leaderboard:
 
-1. 
-2. 
-3. 
+1. Allison (11.67)
+2. Trent (8.5)
+3. Lucia (6)
+
+The live leaderboard is undergoing work by the epic dev Rivka (please pay her money, this is child labor).
 
 Happy Hunting,
 
