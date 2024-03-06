@@ -40,6 +40,11 @@ def send_email(sender_email, sender_password, recipient_email, subject, body):
 num = day_num % 5
 df = pd.read_csv(f"day{num}.csv")
 
+# Adding functionality here for seeing who targetted you the previous day would be:
+# Find each person in the target list
+# Send out this information in the body
+# Seems low priority just because to add new people you have to edit this anyway.
+
 # Description of the Email
 
 # if no email written for that day / i was lazy
