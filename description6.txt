@@ -7,6 +7,10 @@ Updates that should've been yesterday:
 - Killstreak bonus has been implemented! For each time you kill 3 people in a day, you get an extra point!
 - Kamikaze is now mandatory for the #1 person on Fridays (they will recieve a special email tomorrow). It is still opt-inable.
 
+SHIELD rules update:
+- Making it so that you have 3 shields total, but you can only use shields once on each person.
+- If you use it on someone who is NOT your assassin you suffer EMBARRASSMENT and lose that shield. 
+
 Short explanation of Kamikaze:
 - You do this for the day instead of having three people.
 - You get a list of EVERYONE playing and a word for them (here, words can be shorter to make it easier.)
