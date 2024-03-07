@@ -26,7 +26,7 @@ But just in case, check if your word is daughter.
 
 ## Extra
 
-- Rules can be found in description0.txt.
+Read the emails to have an understanding.
 
 Instructions to get the technical portion running:
 
@@ -35,4 +35,4 @@ Instructions to get the technical portion running:
 - Every day, to send the email, you should run python send_emails.py
   - Set up your Gmail account according to [this link](https://stackoverflow.com/questions/72480454/sending-email-with-python-google-disables-less-secure-apps) to automate emails. This is only done once
   - Every day that an email is sent there should be a new description file written (e.g. description1.txt, description2.txt, etc.).
-  - I computed the scores manually and just used an external excel sheet, copying and pasting the leaderboard into the descriptions.
+  - You can compute manually, or use spreadsheet magic.

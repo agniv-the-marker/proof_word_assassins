@@ -38,7 +38,7 @@ def send_email(sender_email, sender_password, recipient_email, subject, body):
     session.quit()
 
 num = day_num % 5
-df = pd.read_csv(f"day{num}.csv")
+df = pd.read_csv(f"./data/day{num}.csv")
 
 # Adding functionality here for seeing who targetted you the previous day would be:
 # Find each person in the target list
@@ -59,7 +59,7 @@ Agniv Sarkar
 """
 
 try:
-    with open(f"description{day_num-1}.txt", "r") as file:
+    with open(f"./emails/description{day_num-1}.txt", "r") as file:
         desc = file.read()
 except:
     pass

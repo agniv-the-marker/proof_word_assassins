@@ -29,7 +29,7 @@ def send_email(sender_email, sender_password, recipient_email, subject, body):
     session.quit()
 
 num = day_num % 5
-df = pd.read_csv(f"kamikaze.csv")
+df = pd.read_csv(f"./k_data/kamikaze.csv")
 
 # Description of the Email
 
@@ -45,7 +45,7 @@ Agniv Sarkar
 """
 
 try:
-    with open(f"kamikaze{day_num}.txt", "r") as file:
+    with open(f"./k_emails/kamikaze{day_num}.txt", "r") as file:
         desc = file.read()
 except:
     pass

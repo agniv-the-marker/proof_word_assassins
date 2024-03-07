@@ -29,13 +29,13 @@ words5000 = [word[:-1] for word in lines5000]
 long_words = [word for word in words5000 if len(word) > 4]
 
 # check if randomized list of words has been created
-if not os.path.isfile('./permuted_words.pkl'):
+if not os.path.isfile('./data/permuted_words.pkl'):
     words = np.random.permutation(long_words)
 
-    with open('permuted_words.pkl', 'wb') as f:
+    with open('./data/permuted_words.pkl', 'wb') as f:
         pickle.dump(words, f)
 
-with open('permuted_words.pkl', 'rb') as f:
+with open('./data/permuted_words.pkl', 'rb') as f:
     loaded_list = pickle.load(f)
 
 for day_num in range(num_days):
@@ -61,4 +61,4 @@ for day_num in range(num_days):
 
     df["Sentence"] = ["\n".join([f"Your {english_enums[i]} target is {df[targets[i]][x]} with the word \"{df[targets_words[i]][x]}\"" for i in range(num_targets_per_person)]) for x in range(len(df))]
 
-    df.to_csv(f"day{day_num}.csv", index=False)
+    df.to_csv(f"./data/day{day_num}.csv", index=False)
