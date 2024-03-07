@@ -1,5 +1,15 @@
 Hullaballo hunters!
 
+Scroll down to see targets.
+
+Updates that should've been yesterday:
+- Rivka is awesome
+- Killstreak bonus has been implemented! For each time you kill 3 people in a day, you get an extra point!
+- Kamikaze is now mandatory for the #1 person on Fridays (they will recieve a special email tomorrow).
+
+
+// if no one new joining, remove rules
+
 Some shields went down! Also, X is joining this game. For a quick recap of the rules:
 
 For those new, the rules are simple:
@@ -23,8 +33,6 @@ Leaderboard:
 1.
 2. 
 3. 
-
-The live leaderboard is undergoing work by the epic dev Rivka (please pay her money, this is child labor), and Jacob will soon join our team (also child labor)!
 
 Happy Hunting,
 
