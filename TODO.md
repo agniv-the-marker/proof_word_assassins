@@ -15,6 +15,10 @@ Need to make this cleaner
 - Add folders for the emails/data instead of letting it bloat up lol
 - Add a csv aimed for targets, i.e. easier to get the data when writing the emails.
 
+## Kamikaze
+
+Add new txt with easier words for KAMIKAZE
+
 ## Want to dos?
 
 Maybe make csv generation easier on my end instead of a spreadsheet? Not totally sure how this might work, could host on a website or something (very low priority)
