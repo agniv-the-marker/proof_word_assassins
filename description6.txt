@@ -1,34 +1,22 @@
-Hullaballo hunters!
+Hullaballo hunters & shielders!
 
-Scroll down to see targets.
+Scroll down to see targets. Some shields went down, so keep it up!
 
 Updates that should've been yesterday:
-- Rivka is awesome
+- Rivka is awesome (this is everyday)
 - Killstreak bonus has been implemented! For each time you kill 3 people in a day, you get an extra point!
-- Kamikaze is now mandatory for the #1 person on Fridays (they will recieve a special email tomorrow).
+- Kamikaze is now mandatory for the #1 person on Fridays (they will recieve a special email tomorrow). It is still opt-inable.
 
+Short explanation of Kamikaze:
+- You do this for the day instead of having three people.
+- You get a list of EVERYONE playing and a word for them (here, words can be shorter to make it easier.)
+- You earn a percentage. If you kill x% of people, you get x% * 3.
+- Shielding still works against you, but you only lose 1/10th of a point if it is successful. Similarly, they gain 1/10th of a point.
+- For each person you kill, they each lose 1/10th of a point.
 
-// if no one new joining, remove rules
+This will also include a seperate leaderboard that is purely based on the NUMBER of kills done in a single day.
 
-Some shields went down! Also, X is joining this game. For a quick recap of the rules:
-
-For those new, the rules are simple:
-
-- If you get your target to say a word aloud, you get 1 point.
-- If you say a word someone is trying to get you to say, you lose 1/3rd of a point.
-- Let me know if you got someone inside of the group chat! Say "I got [X] with word [Y]"
-
-Links are in group chat description. Text in the group chat for words that you want added.
-
-How SHIELDING works:
-
-- If you think you know your assassin's word, look at them and say "Is your word for me [X]?" or something similar. Saying shield gives you a bonus point (in my heart)
-- If you get it right, then you gain a third of a point and they lose a third of a point. They cannot kill you for the rest of the day.
-- If you get it wrong, then you cannot invoke a shield for the rest of the day. No points are affected.
-
-Be careful! Denote in chat "SUCCESSFUL SHIELD against [assassin]" so I know how to document it.
-
-Leaderboard:
+Normal Leaderboard:
 
 1.
 2. 
