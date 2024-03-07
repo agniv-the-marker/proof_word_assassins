@@ -1,27 +1,49 @@
 # Word Assassins Game
 
 It’s a new day with targets of three
+
 Better know their whereabouts!
+
 Since three are coming for you with glee
 
+
+
 Each one, a word,
+
 As simple as which,
+
 as divine as calyx
+
 and some, as renounced as Taylor Swift
 
+
+
 A friend asks for the remote—
+
 but there is no TV.
+
 The quiet man asks for a photo—
+
 but he has no phone.
+
 She reaches and asks about life—
+
 you’ve never seen her before.
 
+
+
 But hey! Maybe you can think.
+
 Invoke a shield, then grab a drink
+
 for you are not powerless in this game of many
+
 A game of literary deceit and tyranny
 
+
+
 Be careful, little sheep, as you are led to the slaughter,
+
 But just in case, check if your word is daughter.
 
 ## Rules
