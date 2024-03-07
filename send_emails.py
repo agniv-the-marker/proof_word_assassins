@@ -37,7 +37,7 @@ def send_email(sender_email, sender_password, recipient_email, subject, body):
     session.sendmail(sender_email, recipient_email, text)
     session.quit()
 
-num = day_num % 5
+num = day_num - 1
 df = pd.read_csv(f"./data/day{num}.csv")
 
 # Adding functionality here for seeing who targetted you the previous day would be:

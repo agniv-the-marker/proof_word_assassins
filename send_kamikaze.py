@@ -29,7 +29,7 @@ def send_email(sender_email, sender_password, recipient_email, subject, body):
     session.quit()
 
 num = day_num % 5
-df = pd.read_csv(f"./k_data/kamikaze.csv")
+df = pd.read_csv(f"./k_data/kamikaze.csv") # no indexing needed
 
 # Description of the Email
 
