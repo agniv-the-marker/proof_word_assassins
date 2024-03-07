@@ -18,6 +18,12 @@ Finally, there are some rules/game types that can be introduced (i.e. Vengence, 
 - [VENGEANCE RULE] From now on, if you kill someone who has previously killed you, that's 2 points. Please label your  message with the term VENGEANCE at the front to get the additional point.
 - [SHIELD OPPORTUNITIES] Everyone has three opportunities in a day to ask the question of the form "Are you trying to get me to say the word X?" (or similar). If you ask this question to your assassin and X is indeed the word that your assassin is trying to get you to say, your assassin loses 1/3 a point and you win a point, and they can no longer kill you. Please label the email with the term SUCCESSFUL SHIELD. Otherwise, you simply lose of your three opportunities in the day, and the game continues as normal.
 
+How SHIELDING works:
+
+- If you think you know your assassin's word, look at them and say "Is your word for me [X]?" or something similar. Saying shield gives you a bonus point (in my heart)
+- If you get it right, then you gain a third of a point and they lose a third of a point. They cannot kill you for the rest of the day.
+- If you get it wrong, then you cannot invoke a shield for the rest of the day. No points are affected.
+
 If anyone wants to join, please make sure they ask me! If you wish to opt out, please let me know. Running multiple groups is probably possible, but half of the fun is making you talk to new people! If you have an idea on how to automate the scoring, please let me know! I imagine google forms might work...
 
 Have fun!

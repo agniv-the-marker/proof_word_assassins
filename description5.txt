@@ -1,5 +1,7 @@
 Hey hunters,
 
+Request more words! If no one does, I'm adding the word hullaballo!
+
 SHIELDING will now be introduced. Also, Jasper is joining this game. For a quick recap of the rules:
 
 For those new, the rules are simple:
@@ -12,21 +14,19 @@ Links are in group chat description. Text in the group chat for words that you w
 
 How SHIELDING works:
 
-- If you think you know your assassin's word, look at them and say "Is your word for me [X]?" or something similar.
-- If you get it right, then you gain a half point and they lose a half point.
-- If you get it wrong, then you lose a half point and they gain a half point.
+- If you think you know your assassin's word, look at them and say "Is your word for me [X]?" or something similar. Saying shield gives you a bonus point (in my heart)
+- If you get it right, then you gain a third of a point and they lose a third of a point. They cannot kill you for the rest of the day.
+- If you get it wrong, then you cannot invoke a shield for the rest of the day. No points are affected.
 
-You have 3 chances to use this in a day, but if you get it wrong, you lose all your chances to use it for the rest of the day. Be careful!
-
-Denote in chat "SUCCESSFUL SHIELD against [assassin]" or "UNSUCCESSFUL SHIELD against [asssassin]" so I know how to document it.
+Be careful! Denote in chat "SUCCESSFUL SHIELD against [assassin]" so I know how to document it. The plan is to use S to mark a shield.
 
 Leaderboard:
 
-1. 
-2. 
-3. 
+1. Allison (12.67, WTF)
+2. Trent (9.5)
+3. Agniv (6.7, the gap here is INSANE)
 
-The live leaderboard is undergoing work by the epic dev Rivka (please pay her money, this is child labor).
+The live leaderboard is undergoing work by the epic dev Rivka (please pay her money, this is child labor), and Jacob will soon join our team (also child labor)!
 
 Happy Hunting,
 
