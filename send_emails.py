@@ -5,10 +5,10 @@ https://stackoverflow.com/questions/72480454/sending-email-with-python-google-di
 """
 
 from os import environ
-from config import APP_PASSWORD
+from config import APP_PASSWORD, DAY_NUM
 
 # ----- BEGIN EDITING -----
-day_num = 7 # Starts at 0
+day_num = DAY_NUM # Starts at 0
 sender_email = 'agnivsarkar@proofschool.org'
 sender_password = APP_PASSWORD
 email_subject = f'Word Assassins Day {day_num}'

@@ -1,6 +1,6 @@
-from config import APP_PASSWORD
+from config import APP_PASSWORD, DAY_NUM
 
-day_num = 0 # Starts at 0
+day_num = DAY_NUM # Starts at 0
 sender_email = 'agnivsarkar@proofschool.org'
 sender_password = APP_PASSWORD
 email_subject = f'KAMIKAZE {day_num}'
@@ -45,7 +45,7 @@ Agniv Sarkar
 """
 
 try:
-    with open(f"description{day_num}.txt", "r") as file:
+    with open(f"kamikaze{day_num}.txt", "r") as file:
         desc = file.read()
 except:
     pass
