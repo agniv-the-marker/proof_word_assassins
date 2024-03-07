@@ -11,7 +11,7 @@ from config import KAMIKAZE_LENGTH
 
 threshold = KAMIKAZE_LENGTH # kamikaze threshold
 
-with open("5000_words.txt", "r") as file:
+with open("./word_banks/5000_words.txt", "r") as file:
     lines5000 = file.readlines()
 
 words5000 = [word[:-1] for word in lines5000]
