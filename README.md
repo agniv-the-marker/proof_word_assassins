@@ -1,5 +1,15 @@
 # Word Assassins Game
 
+A game from ASPR which I modified to fit my school environment.
+
+## Summary
+
+It lasted for a few weeks and went pretty well! Currently, 3D printing balisong trainers are the prize. The novelty of the game was the important bit. 
+
+I personally really enjoyed trying to maintain a game like this and could fork this again to work in other environments.
+
+## Poetic Overview
+
 It’s a new day with targets of three\
 Better know their whereabouts!\
 Since three are coming for you with glee
