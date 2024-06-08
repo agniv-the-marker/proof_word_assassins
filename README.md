@@ -4,9 +4,9 @@ A game from ASPR which I modified to fit my school environment.
 
 ## Summary
 
-It lasted for a few weeks and went pretty well! Currently, 3D printing balisong trainers are the prize. The novelty of the game was the important bit. 
+It lasted for a few weeks and went pretty well! Currently, [3D printed balisong](https://www.thingiverse.com/thing:4688406) trainers are the prize. The novelty of the game was the important bit. 
 
-I personally really enjoyed trying to maintain a game like this and could fork this again to work in other environments.
+I personally really enjoyed trying to maintain a game like this and could fork this again to work in other environments. I'd love for this to run again, preferably during a build week next year!
 
 ## Poetic Overview
 
@@ -35,6 +35,10 @@ Be careful, little sheep, as you are led to the slaughter,\
 But just in case, check if your word is daughter.
 
 ## Rules
+
+I would recommend starting out with only the CORE mechanic -- this makes updating a spreadsheet for keeping track of kills really easy.
+
+After a few days/up to a week, maybe try a shielding mechanic! No one really tried out kamikaze, so it's an untested rule.
 
 Core Mechanic:
 
